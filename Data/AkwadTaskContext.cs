@@ -15,5 +15,7 @@ namespace AkwadTask.Data
         }
 
         public DbSet<AkwadTask.Models.Department> Department { get; set; }
+
+        public DbSet<AkwadTask.Models.Job> Job { get; set; }
     }
 }

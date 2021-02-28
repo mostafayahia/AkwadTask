@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Pages\Employees\" />
-    <Folder Include="Pages\Jobs\" />
   </ItemGroup>
 
   <ItemGroup>
